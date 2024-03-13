@@ -1,7 +1,5 @@
 package ua.edu.lntu.cw_3.data
 
-import com.example.affirmations.R
-import com.example.affirmations.model.Affirmation
 import ua.edu.lntu.cw_3.R
 import ua.edu.lntu.cw_3.model.Affirmation
 

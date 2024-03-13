@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IPZ_CW_3_Sapozhnik_Anton</string>
+    <string name="affirmation1">"Приділяйте увагу своєму харчуванню. "</string>
+    <string name="affirmation2">Зберігайте активний спосіб життя.</string>
+    <string name="affirmation3">Вивчайте щось нове щодня.</string>
+    <string name="affirmation4">Практикуйте медитацію для зменшення стресу та підвищення свідомості.</string>
+    <string name="affirmation5">Дбайте про свій сон. Якісний відпочинок вночі забезпечує енергію й продуктивність протягом дня.</string>
+    <string name="affirmation6">Відкривайте світ через подорожі.</string>
+    <string name="affirmation7">Навчіться робити власні рішення та приймати відповідальність за них.</string>
+    <string name="affirmation8">Не відмовляйтеся від своїх мрій.</string>
+    <string name="affirmation9">Вірте у свою власну цінність.</string>
+    <string name="affirmation10">Навчіться ефективно спілкуватися.</string>
+</resources>
