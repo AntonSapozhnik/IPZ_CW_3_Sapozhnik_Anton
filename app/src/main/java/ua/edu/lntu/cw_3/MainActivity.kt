@@ -90,3 +90,4 @@ private fun AffirmationCardPreview() {
     AffirmationCard(Affirmation(R.string.affirmation1, R.drawable.pho1))
 }
 
+//1
