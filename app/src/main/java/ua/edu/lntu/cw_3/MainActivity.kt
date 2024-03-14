@@ -63,6 +63,7 @@ fun AffirmationList(affirmationList: List<Affirmation>, modifier: Modifier = Mod
     }
 }
 
+
 @Composable
 fun AffirmationCard(affirmation: Affirmation, modifier: Modifier = Modifier) {
     Card(modifier = modifier) {
@@ -76,7 +77,7 @@ fun AffirmationCard(affirmation: Affirmation, modifier: Modifier = Modifier) {
                 contentScale = ContentScale.Crop
             )
             Text(
-                text = LocalContext.current.getString(affirmation.stringResourceId),
+                text = stringResource(affirmation.stringResourceId),
                 modifier = Modifier.padding(16.dp),
                 style = MaterialTheme.typography.headlineSmall
             )
@@ -87,7 +88,6 @@ fun AffirmationCard(affirmation: Affirmation, modifier: Modifier = Modifier) {
 @Preview
 @Composable
 private fun AffirmationCardPreview() {
-    AffirmationCard(Affirmation(R.string.affirmation1, R.drawable.pho1))
+    AffirmationsApp()
 }
 
-//1
